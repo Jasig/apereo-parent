@@ -41,9 +41,9 @@
 		
 		<jasig-scm-base>https://raw.githubusercontent.com/Jasig/apereo-parent/master/</jasig-scm-base>
 
-		<jasig-short-license-url>${jasig-scm-base}/licenses/short-license-header.txt</jasig-short-license-url>
-		<jasig-license-lookup-url>${jasig-scm-base}/licenses/license-mappings.xml</jasig-license-lookup-url>
-		<jasig-notice-template-url>${jasig-scm-base}/licenses/NOTICE.template</jasig-notice-template-url>
+		<jasig-short-license-url>${jasig-scm-base}licenses/short-license-header.txt</jasig-short-license-url>
+		<jasig-license-lookup-url>${jasig-scm-base}licenses/license-mappings.xml</jasig-license-lookup-url>
+		<jasig-notice-template-url>${jasig-scm-base}licenses/NOTICE.template</jasig-notice-template-url>
 
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.build.sourceVersion>1.7</project.build.sourceVersion>
