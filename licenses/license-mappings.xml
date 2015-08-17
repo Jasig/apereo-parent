@@ -1061,4 +1061,69 @@
         <version>1.0-RC2</version>
         <license>Apache License, Version 2.0</license>
     </artifact>
+        <artifact>
+        <groupId>net.shibboleth.idp</groupId>
+        <artifactId>idp-attribute-api</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <groupId>net.shibboleth.idp</groupId>
+        <artifactId>idp-attribute-filter-api</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <groupId>net.shibboleth.idp</groupId>
+        <artifactId>idp-attribute-resolver-api</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <groupId>net.shibboleth.idp</groupId>
+        <artifactId>idp-authn-api</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <groupId>net.shibboleth.idp</groupId>
+        <artifactId>idp-core</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <groupId>net.shibboleth.idp</groupId>
+        <artifactId>idp-profile-api</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <groupId>net.shibboleth.idp</groupId>
+        <artifactId>idp-profile-impl</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <groupId>net.shibboleth.idp</groupId>
+        <artifactId>idp-profile-spring</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <groupId>net.shibboleth.idp</groupId>
+        <artifactId>idp-saml-api</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <groupId>net.shibboleth.idp</groupId>
+        <artifactId>idp-saml-impl</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <groupId>net.shibboleth.idp</groupId>
+        <artifactId>idp-schema</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <groupId>net.shibboleth.idp</groupId>
+        <artifactId>idp-session-api</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <groupId>opensymphony</groupId>
+        <artifactId>ognl</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
 </license-lookup>
