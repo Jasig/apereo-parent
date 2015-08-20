@@ -1126,4 +1126,19 @@
         <artifactId>ognl</artifactId>
         <license>Apache License, Version 2.0</license>
     </artifact>
+    <artifact>
+        <groupId>net.sf.ehcache</groupId>
+        <artifactId>ehcache-terracotta</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <groupId>org.jboss.cache</groupId>
+        <artifactId>jbosscache-core</artifactId>
+        <license>LGPL, v2.1</license>
+    </artifact>
+    <artifact>
+        <groupId>org.terracotta</groupId>
+        <artifactId>terracotta-toolkit-1.0-runtime</artifactId>
+        <license>Terracotta Public License, http://www.terracotta.org/legal/terracotta-public-license</license>
+    </artifact>
 </license-lookup>
