@@ -1136,6 +1136,56 @@
         <artifactId>jbosscache-core</artifactId>
         <license>LGPL, v2.1</license>
     </artifact>
+        <artifact>
+        <groupId>com.github.coova</groupId>
+        <artifactId>jradius</artifactId>
+        <license>GNU Lesser General Public License, version 2.1</license>
+    </artifact>
+    <artifact>
+        <groupId>com.github.coova.jradius</groupId>
+        <artifactId>jradius-apps</artifactId>
+        <license>GNU Lesser General Public License, version 2.1</license>
+    </artifact>
+    <artifact>
+        <groupId>com.github.coova.jradius</groupId>
+        <artifactId>jradius-client</artifactId>
+        <license>GNU Lesser General Public License, version 2.1</license>
+    </artifact>
+    <artifact>
+        <groupId>com.github.coova.jradius</groupId>
+        <artifactId>jradius-core</artifactId>
+        <license>GNU Lesser General Public License, version 2.1</license>
+    </artifact>
+    <artifact>
+        <groupId>com.github.coova.jradius</groupId>
+        <artifactId>jradius-dictionary</artifactId>
+        <license>GNU Lesser General Public License, version 2.1</license>
+    </artifact>
+    <artifact>
+        <groupId>com.github.coova.jradius</groupId>
+        <artifactId>jradius-dictionary-min</artifactId>
+        <license>GNU Lesser General Public License, version 2.1</license>
+    </artifact>
+    <artifact>
+        <groupId>com.github.coova.jradius</groupId>
+        <artifactId>jradius-example</artifactId>
+        <license>GNU Lesser General Public License, version 2.1</license>
+    </artifact>
+    <artifact>
+        <groupId>com.github.coova.jradius</groupId>
+        <artifactId>jradius-extended</artifactId>
+        <license>GNU Lesser General Public License, version 2.1</license>
+    </artifact>
+    <artifact>
+        <groupId>com.github.coova.jradius</groupId>
+        <artifactId>jradius-extras</artifactId>
+        <license>GNU Lesser General Public License, version 2.1</license>
+    </artifact>
+    <artifact>
+        <groupId>com.github.coova.jradius</groupId>
+        <artifactId>jradius-server</artifactId>
+        <license>GNU Lesser General Public License, version 2.1</license>
+    </artifact>
     <artifact>
         <groupId>org.terracotta</groupId>
         <artifactId>terracotta-toolkit-1.0-runtime</artifactId>
