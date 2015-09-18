@@ -1191,4 +1191,19 @@
         <artifactId>terracotta-toolkit-1.0-runtime</artifactId>
         <license>Terracotta Public License, http://www.terracotta.org/legal/terracotta-public-license</license>
     </artifact>
+    <artifact>
+        <groupId>avalon-framework</groupId>
+        <artifactId>avalon-framework</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <groupId>logkit</groupId>
+        <artifactId>logkit</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <groupId>org.jasig.cas.client</groupId>
+        <artifactId>cas-client-core</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
 </license-lookup>
