@@ -1202,6 +1202,11 @@
         <license>Apache License, Version 2.0</license>
     </artifact>
     <artifact>
+        <groupId>opensymphony</groupId>
+        <artifactId>ognl</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
         <groupId>org.jasig.cas.client</groupId>
         <artifactId>cas-client-core</artifactId>
         <license>Apache License, Version 2.0</license>
