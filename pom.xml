@@ -196,9 +196,6 @@
                             <exclude>LICENSE</exclude>
                             <exclude>NOTICE</exclude>
                             <exclude>short-license-header.txt</exclude>  <!-- not present. Defaulted for other projects? -->
-                            <exclude>licenses/LICENSE.txt</exclude>
-                            <exclude>licenses/NOTICE.template</exclude>
-                            <exclude>licenses/short-license-header.txt</exclude>
                         </excludes>
                     </configuration>
                 </plugin>
@@ -232,6 +229,15 @@
             <plugin>
                 <groupId>com.mycila</groupId>
                 <artifactId>license-maven-plugin</artifactId>
+                <configuration>
+                    <excludes>
+                        <exclude>LICENSE</exclude>
+                        <exclude>NOTICE</exclude>
+                        <exclude>licenses/LICENSE.txt</exclude>
+                        <exclude>licenses/NOTICE.template</exclude>
+                        <exclude>licenses/short-license-header.txt</exclude>
+                    </excludes>
+                </configuration>
             </plugin>
         </plugins>
     </build>
