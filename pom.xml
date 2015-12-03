@@ -30,7 +30,7 @@
     
     <groupId>org.jasig.parent</groupId>
     <artifactId>jasig-parent</artifactId>
-    <version>41</version>
+    <version>42-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>Apereo Parent Project</name>
@@ -54,7 +54,7 @@
         <connection>scm:git:git@github.com:Jasig/apereo-parent.git</connection>
         <developerConnection>scm:git:git@github.com:Jasig/apereo-parent.git</developerConnection>
         <url>https://github.com/Jasig/apereo-parent</url>
-        <tag>jasig-parent-41</tag>
+        <tag>master</tag>
     </scm>
 
     <properties>
