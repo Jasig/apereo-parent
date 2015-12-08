@@ -197,6 +197,9 @@
                             <exclude>NOTICE</exclude>
                             <exclude>short-license-header.txt</exclude>  <!-- not present. Defaulted for other projects? -->
                         </excludes>
+                        <mapping>
+                            <less>SLASHSTAR_STYLE</less>
+                        </mapping>
                     </configuration>
                 </plugin>
                 <plugin>
