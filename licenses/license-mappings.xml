@@ -1231,9 +1231,10 @@
         <artifactId>cas-client-core</artifactId>
         <license>Apache License, Version 2.0</license>
     </artifact>
-        <artifact>
+    <artifact>
         <groupId>de.javakaffee</groupId>
         <artifactId>kryo-serializers</artifactId>
         <license>Apache License, Version 2.0</license>
+        <version>0.37</version>
     </artifact>
 </license-lookup>
