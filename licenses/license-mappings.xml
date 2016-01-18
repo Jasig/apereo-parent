@@ -1237,4 +1237,9 @@
         <license>Apache License, Version 2.0</license>
         <version>0.37</version>
     </artifact>
+    <artifact>
+        <groupId>gnu.getopt</groupId>
+        <artifactId>java-getopt</artifactId>
+        <license>GNU Lesser General Public License, version 2.1</license>
+    </artifact>
 </license-lookup>
