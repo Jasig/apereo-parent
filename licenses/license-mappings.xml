@@ -1240,6 +1240,7 @@
     <artifact>
         <groupId>gnu.getopt</groupId>
         <artifactId>java-getopt</artifactId>
+        <version>1.0.13</version>
         <license>GNU Lesser General Public License, version 2.1</license>
     </artifact>
 </license-lookup>
