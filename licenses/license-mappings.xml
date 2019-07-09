@@ -411,6 +411,16 @@
         <license>Apache License, Version 2.0</license>
     </artifact>
     <artifact>
+        <groupId>org.apereo.service.persondir</groupId>
+        <artifactId>person-directory-api</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <groupId>org.apereo.service.persondir</groupId>
+        <artifactId>person-directory-impl</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
         <groupId>org.codehaus.castor</groupId>
         <artifactId>castor</artifactId>
         <license>Apache License, Version 2.0</license>
